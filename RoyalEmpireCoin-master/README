@@ -1,0 +1,40 @@
+REC
+======
+
+SPECIFICATIONS
+--------------
+Type:                   POW/POS Hybrid
+
+Algorithm:              Blake2s
+
+Difficulty Retarget:    Every Block
+
+Block Time:             3 Minutes
+
+Block Rewards:          Both POW and POS Have Static Rewards.
+
+POW:                    1 REC
+
+POS:                    2 REC
+
+Coinbase Maturity:      5 Blocks
+
+Block Reward Halving:   Never
+
+Last POW Block:         500000
+
+POS Start:              Block 1
+
+Minimum POS Age:        1 Hour
+
+Maximum POS Age:        No Max
+
+Max Coins:              7000000 REC
+
+Network Info:
+
+P2P Port: 7799
+RPC Port: 9977
+
+Testnet P2P Port: 17799
+Testnet RPC Port: 19977
