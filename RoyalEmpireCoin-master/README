@@ -3,38 +3,24 @@ REC
 
 SPECIFICATIONS
 --------------
-Type:                   POW/POS Hybrid
+CoinName: Royal Empire Coin
 
-Algorithm:              Blake2s
+Ticker: REC
 
-Difficulty Retarget:    Every Block
+Algorithm: Skein
 
-Block Time:             3 Minutes
+Coin Type: PoW/PoS
 
-Block Rewards:          Both POW and POS Have Static Rewards.
+RPC Port: 20028
 
-POW:                    1 REC
+P2P Port: 20029
 
-POS:                    2 REC
+Coin Supply: 28,888,800
 
-Coinbase Maturity:      5 Blocks
+Premine: 4,333,320
 
-Block Reward Halving:   Never
+Block reward structure: 50 REC per block
 
-Last POW Block:         500000
+Target Spacing: 120 seconds
 
-POS Start:              Block 1
-
-Minimum POS Age:        1 Hour
-
-Maximum POS Age:        No Max
-
-Max Coins:              7000000 REC
-
-Network Info:
-
-P2P Port: 7799
-RPC Port: 9977
-
-Testnet P2P Port: 17799
-Testnet RPC Port: 19977
+PoS Rewards: 12% annually
